@@ -4,6 +4,7 @@ Scripts do teste técnico para a vaga da Target Sistemas. O teste aborda alguns 
 
 1. **Soma**
    - Implementação de um cálculo de soma de números conforme o enunciado no teste
+   - O valor da soma (para o cálculo de 1 até 13) é 91.
 
 2. **Fibonacci**
    - Verificação de um número informado pertence ou não à sequência de Fibonacci
